@@ -1,7 +1,9 @@
+.DS_Store
+
+wordle_backend/__pycache__/
+wordle_backend/data/__pycache__/
+venv/
+
 wordle_frontend/node_modules/
 wordle_frontend/dist/
-.vite/
-
-wordle_backend/.idea/
-wordle_backend/venv/
-wordle_backend/__pycache__/
+wordle_frontend/.vite/
