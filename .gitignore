@@ -1,0 +1,7 @@
+wordle_frontend/node_modules/
+wordle_frontend/dist/
+.vite/
+
+wordle_backend/.idea/
+wordle_backend/venv/
+wordle_backend/__pycache__/
