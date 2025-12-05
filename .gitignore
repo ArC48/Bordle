@@ -1,9 +1,13 @@
+.idea/
+*.iml
+
+node_modules/
+dist/
+.vite/
+
+*.log
+
 .DS_Store
 
 wordle_backend/__pycache__/
-wordle_backend/data/__pycache__/
-venv/
-
-wordle_frontend/node_modules/
-wordle_frontend/dist/
-wordle_frontend/.vite/
+wordle_backend/**/*.pyc
